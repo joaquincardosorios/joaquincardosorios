@@ -1,4 +1,6 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/joaquincardosorios/joaquincardosorios/blob/main/Joaquin%20Cardoso.png" width="800"/>
+</div>
 
 <!--
 **joaquincardosorios/joaquincardosorios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
