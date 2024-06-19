@@ -41,6 +41,10 @@ Amante de los números y la programación, soy desarrollador web en transición 
 
 </div>
 
+---
+### 🛠️ Mis estadisticas :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquincardosorios&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **joaquincardosorios/joaquincardosorios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
