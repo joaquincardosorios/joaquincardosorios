@@ -1,6 +1,11 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/joaquincardosorios/joaquincardosorios/blob/main/Joaquin%20Cardoso.png" width="800"/>
+  <img decoding="async" src="https://github.com/joaquincardosorios/joaquincardosorios/blob/main/banner.png" width="800"/>
 </div>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcardosor/)
+
+
+[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://jcardoso.reflex.run/)
 
 <!--
 **joaquincardosorios/joaquincardosorios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
